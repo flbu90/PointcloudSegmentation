@@ -11,3 +11,8 @@ methods were tested for their segmentation quality. Results showed that the
 Gaussian Mixture models provide the best but also the worst scores. To
 address this problem, a cluster validation was developed that identifies the
 best clustering of multiple clustering candidates.
+
+
+Training is based on the Scannet Dataset.
+The test data was created with the Faro Focus LiDar Scanner. 
+
